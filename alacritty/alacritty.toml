@@ -1,0 +1,4 @@
+[general]
+import = [
+"~/.config/alacritty/current_theme.toml"
+]
