@@ -13,6 +13,8 @@ alias tree='eza --tree --icons'
 alias cat='bat'
 alias htop='btop'
 alias cl='clear; fastfetch; echo ""; ls'
+alias start='dbus-run-session start-hyprland'
+alias cll='cd; clear; fastfetch; echo""; ls'
 
 function last_history_item
     echo $history[1]
@@ -52,3 +54,12 @@ end
 # Init shit
 zoxide init fish | source
 starship init fish | source
+
+
+# Run hyprland on startup
+
+#if status is-login
+#    if test (tty) = /dev/tty1
+#        exec dbus-run-session start-hyprland
+#    end
+#end

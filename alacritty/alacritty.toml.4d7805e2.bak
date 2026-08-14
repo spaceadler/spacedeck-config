@@ -13,8 +13,3 @@ normal = { family = "Liga SFMono Nerd Font", style = "Regular" }
 size = 9.0
 
 
-
-[[keyboard.bindings]]
-key = "Return"
-mods = "Shift"
-chars = "\u001B\r"
