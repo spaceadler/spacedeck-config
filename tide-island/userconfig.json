@@ -1,0 +1,22 @@
+{
+    "dynamicIslandLeftSwipeItems": [
+        "cava",
+        "time",
+        "battery"
+    ],
+    "dynamicIslandPrimaryAction": "toggleExpandedPlayer",
+    "dynamicIslandPrimaryButton": 1,
+    "dynamicIslandSecondaryAction": "toggleControlCenter",
+    "dynamicIslandSecondaryButton": 3,
+    "heroFontFamily": "Liga SFMono Nerd Font",
+    "hyprlandBindMode": "manual",
+    "iconFontFamily": "Liga SFMono Nerd Font",
+    "overviewGlobalShortcutAppid": "quickshell",
+    "overviewGlobalShortcutName": "dynamic-island-overview",
+    "textFontFamily": "Liga SFMono Nerd Font",
+    "timeFontFamily": "Liga SFMono Nerd Font",
+    "tlpPermissionMode": "sudo",
+    "tlpSudoPassword": "nawras",
+    "wallpaperPath": "/home/adler/walls/car.jpg",
+    "workspaceOverviewWindowDragButton": 1
+}
